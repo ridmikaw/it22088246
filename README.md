@@ -13,14 +13,12 @@
 ___
 
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🏢 I'm Undergraduate at SLIIT 
 - 🌱 I’m currently learning *OOP with Java, MERN Stack Development.*
 - 💬 Ask me about **Web Developmet | OOC**
 - 📫 How to reach me **ridmikranasinghe@gmail.com**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br>
 ___
 <h3 align="center">My Statistics:</h3>
 <p align="center">
