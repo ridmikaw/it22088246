@@ -15,7 +15,7 @@ ___
 
 
 - 🏢 I'm Undergraduate at SLIIT 
-- 🌱 I’m currently learning *OOP with Java, MERN Stack Development.*
+- 🌱 I’m currently learning *OOP with Java, MERN Stack Development and Software Testing.*
 - 💬 Ask me about **Web Developmet | OOC**
 - 📫 How to reach me **ridmikranasinghe@gmail.com**
 
